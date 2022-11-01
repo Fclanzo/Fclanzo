@@ -1,16 +1,28 @@
-### Hi there 👋
+<h2>Prazer sou o Francesco C. Lanzoni  😉</h2>
 
-<!--
-**Fclanzo/Fclanzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-conz-lanzoni-52310a1b3/)
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:franprado.central@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Você pode conhecer meu portifólio em (https://Fclanzo.github.io/)</h3>
+
+Atualmente trabalho como analista de Licitações.
+Sempre em movimento estou estudando  linguagem de programação 
+- 💾 <b>Html, Python, Java, PHP, CSS.<b>
+
+- 🎮 <b>Desenvolvimento de jogos com Unity e C#.</b>
+
+- 🌐 <b>Desenvolvimento web utilizando HTML, CSS, JavaScript, PHP e ReactJS.</b>
+
+- 📱  <b>Desenvolvimento mobile React e Phonegap.</b>
+
+- 💻 <b>Desenvolvimento desktop utilizando C#.</b>
+
+<hr>
+
+<p align="center"> 
+ 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fclanzo&show_icons=true&layout=compact" />
+ 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fclanzo&show_icons=true&layout=compact" />
+</p>
