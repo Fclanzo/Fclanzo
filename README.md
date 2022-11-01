@@ -1,7 +1,6 @@
 <h2>Prazer sou o Francesco C. Lanzoni  😉</h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-conz-lanzoni-52310a1b3/)
-
 [![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:franprado.central@gmail.com)
 
 <h3>Você pode conhecer meu portifólio em (https://Fclanzo.github.io/)</h3>
