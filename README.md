@@ -5,9 +5,9 @@
 
 <h3>Você pode conhecer meu portifólio em (https://Fclanzo.github.io/)</h3>
 
-👨🏻‍💻 Atualmente trabalho como analista de Licitações.
+👨🏻‍💻 Atualmente trabalho como analista de Licitações.👨🏻‍💻
+
 Sempre em movimento estou estudando  linguagem de programação 
-- 💾 <b>Html, Python, Java, PHP, CSS.<b>
 
 - 🎮 <b>Desenvolvimento de jogos com Unity e C#.</b>
 
